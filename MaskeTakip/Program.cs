@@ -17,7 +17,7 @@ namespace MaskeTakip
             person1.FirstName = "Zihni";
             person1.Surname = "YAVNIK";
             person1.DateOfBirthYear = 1996;
-            person1.NationalIdenty = 37741878612;
+            person1.NationalIdenty = 111111111; 
 
 
 
